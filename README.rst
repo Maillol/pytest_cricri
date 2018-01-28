@@ -25,5 +25,5 @@ You can set the max_loop parameters using syntax:
     
 Links 
 -----
-`Cricri project <https://github.com/Maillol/cricri>`_.
-`Cricri documentation <http://cricri.readthedocs.io/en/latest/>`_
+* `Cricri project <https://github.com/Maillol/cricri>`_
+* `Cricri documentation <http://cricri.readthedocs.io/en/latest/>`_

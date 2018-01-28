@@ -15,9 +15,9 @@ How to launch cricri test
 
     $ pytest --cricri test_package_name.test_module_name.TestBaseClass
     
-test_package_name should be set in the PYTHONPATH variable.
+*test_package_name* should be set in the PYTHONPATH variable.
 
-You can set the max_loop parameters using syntax:
+You can set the *max_loop* parameter using syntax:
 
 .. code-block:: bash
 
